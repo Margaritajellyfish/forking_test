@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/margarita/Documents/210labs/210labs/q/forking_test/.github/workflows",
+      "program": "/Users/margarita/Documents/210labs/210labs/q/forking_test/.github/workflows/build/Debug/outDebug"
+    }
+  ]
+}
